@@ -1,1 +1,1 @@
-hdfs dfs -put /local/path/to/file /hadoop/destination/path
+./hdfs dfs -put /home/hadoop/spark_dataset /
